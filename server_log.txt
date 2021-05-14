@@ -1,0 +1,1129 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:04:29] 
+[20:04:29] Server Plugins
+[20:04:29] --------------
+[20:04:29]  Loading plugin: sscanf
+[20:04:29] 
+
+[20:04:29]  ===============================
+
+[20:04:29]       sscanf plugin loaded.     
+
+[20:04:29]          Version:  2.8.3        
+
+[20:04:29]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:04:29]  ===============================
+
+[20:04:29]   Loaded.
+[20:04:29]  Loading plugin: streamer
+[20:04:29] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[20:04:29]   Loaded.
+[20:04:29]  Loading plugin: gmtime
+[20:04:29] 
+
+[20:04:29] ______________________________________
+
+[20:04:29]  GMT Time Plugin v0.2.3 loaded
+[20:04:29] ______________________________________
+
+[20:04:29]  By: Fro (c) Copyright <TBG> 2009-2011
+[20:04:29] ______________________________________
+
+[20:04:29]   Loaded.
+[20:04:29]  Loaded 3 plugins.
+
+[20:04:29] 
+[20:04:29] Filterscripts
+[20:04:29] ---------------
+[20:04:29]   Loaded 0 filterscripts.
+
+[20:04:29] Gamemode Base
+
+[20:04:29] by
+
+[20:04:29] Vaca_Marinha
+
+[20:04:29] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:38:48] 
+[20:38:48] Server Plugins
+[20:38:48] --------------
+[20:38:48]  Loading plugin: sscanf
+[20:38:48] 
+
+[20:38:48]  ===============================
+
+[20:38:48]       sscanf plugin loaded.     
+
+[20:38:48]          Version:  2.8.3        
+
+[20:38:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[20:38:48]  ===============================
+
+[20:38:48]   Loaded.
+[20:38:48]  Loading plugin: streamer
+[20:38:48] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[20:38:48]   Loaded.
+[20:38:48]  Loading plugin: gmtime
+[20:38:48] 
+
+[20:38:48] ______________________________________
+
+[20:38:48]  GMT Time Plugin v0.2.3 loaded
+[20:38:48] ______________________________________
+
+[20:38:48]  By: Fro (c) Copyright <TBG> 2009-2011
+[20:38:48] ______________________________________
+
+[20:38:48]   Loaded.
+[20:38:48]  Loaded 3 plugins.
+
+[20:38:48] 
+[20:38:48] Filterscripts
+[20:38:48] ---------------
+[20:38:48]   Loaded 0 filterscripts.
+
+[20:38:48]  
+[20:38:48]  ========================================== 
+[20:38:48]  |                                        | 
+[20:38:48]  |    Generating code, this may take a    | 
+[20:38:48]  |           little bit of time.          | 
+[20:38:48]  |                                        | 
+[20:38:48]  |             Please wait...             | 
+[20:38:48]  |                                        | 
+[20:38:48]  ========================================== 
+[20:38:48]  |                                        | 
+[20:38:48]  | Note that this code generation works   | 
+[20:38:48]  | best with the JIT plugin, which you    | 
+[20:38:48]  | are not currently using.  Get it here: | 
+[20:38:48]  |                                        | 
+[20:38:48]  |        https://git.io/jit-plugin       | 
+[20:38:48]  |                                        | 
+[20:38:48]  ========================================== 
+[20:38:48]  
+[20:38:48]  
+[20:38:48]  
+[20:38:48]  
+[20:38:48]  ========================================== 
+[20:38:48]  |                                        | 
+[20:38:48]  |         YSI version 5.05.0005          | 
+[20:38:48]  |         By Alex "Y_Less" Cole          | 
+[20:38:48]  |                                        | 
+[20:38:48]  | Unable to check the latest YSI version | 
+[20:38:48]  | - please watch the forums and github:  | 
+[20:38:48]  |                                        | 
+[20:38:48]  |   https://git.io/5.x                   | 
+[20:38:48]  |                                        | 
+[20:38:48]  ========================================== 
+[20:38:48]  
+[20:38:48] ======================
+
+[20:38:48] ==========BY==========
+
+[20:38:48] ====Vaca_Marinha======
+
+[20:38:48] 
+======================
+[20:38:48] Number of vehicle models: 0
+[20:39:41] [connection] 127.0.0.1:50804 requests connection cookie.
+[20:39:42] [connection] incoming connection: 127.0.0.1:50804 id: 0
+[20:39:43] [join] ThiagoApks has joined the server (0:127.0.0.1)
+[20:42:37] [part] ThiagoApks has left the server (0:1)
+Console input: gmx
+[20:49:44]  
+[20:49:44]  ========================================== 
+[20:49:44]  |                                        | 
+[20:49:44]  |    Generating code, this may take a    | 
+[20:49:44]  |           little bit of time.          | 
+[20:49:44]  |                                        | 
+[20:49:44]  |             Please wait...             | 
+[20:49:44]  |                                        | 
+[20:49:44]  ========================================== 
+[20:49:44]  |                                        | 
+[20:49:44]  | Note that this code generation works   | 
+[20:49:44]  | best with the JIT plugin, which you    | 
+[20:49:44]  | are not currently using.  Get it here: | 
+[20:49:44]  |                                        | 
+[20:49:44]  |        https://git.io/jit-plugin       | 
+[20:49:44]  |                                        | 
+[20:49:44]  ========================================== 
+[20:49:44]  
+[20:49:44]  
+[20:49:44]  
+[20:49:44]  
+[20:49:44]  ========================================== 
+[20:49:44]  |                                        | 
+[20:49:44]  |         YSI version 5.05.0005          | 
+[20:49:44]  |         By Alex "Y_Less" Cole          | 
+[20:49:44]  |                                        | 
+[20:49:44]  | Unable to check the latest YSI version | 
+[20:49:44]  | - please watch the forums and github:  | 
+[20:49:44]  |                                        | 
+[20:49:44]  |   https://git.io/5.x                   | 
+[20:49:44]  |                                        | 
+[20:49:44]  ========================================== 
+[20:49:44]  
+[20:49:44] ======================
+
+[20:49:44] ==========BY==========
+
+[20:49:44] ====Vaca_Marinha======
+
+[20:49:44] 
+======================
+[20:49:44] Number of vehicle models: 0
+[20:50:26] [connection] 127.0.0.1:56345 requests connection cookie.
+[20:50:27] [connection] incoming connection: 127.0.0.1:56345 id: 0
+[20:50:28] [join] ThiagoApks has joined the server (0:127.0.0.1)
+Console input: gmx
+[21:03:17]  
+[21:03:17]  ========================================== 
+[21:03:17]  |                                        | 
+[21:03:17]  |    Generating code, this may take a    | 
+[21:03:17]  |           little bit of time.          | 
+[21:03:17]  |                                        | 
+[21:03:17]  |             Please wait...             | 
+[21:03:17]  |                                        | 
+[21:03:17]  ========================================== 
+[21:03:17]  |                                        | 
+[21:03:17]  | Note that this code generation works   | 
+[21:03:17]  | best with the JIT plugin, which you    | 
+[21:03:17]  | are not currently using.  Get it here: | 
+[21:03:17]  |                                        | 
+[21:03:17]  |        https://git.io/jit-plugin       | 
+[21:03:17]  |                                        | 
+[21:03:17]  ========================================== 
+[21:03:17]  
+[21:03:17]  
+[21:03:17]  
+[21:03:17]  
+[21:03:17]  ========================================== 
+[21:03:17]  |                                        | 
+[21:03:17]  |         YSI version 5.05.0005          | 
+[21:03:17]  |         By Alex "Y_Less" Cole          | 
+[21:03:17]  |                                        | 
+[21:03:17]  | Unable to check the latest YSI version | 
+[21:03:17]  | - please watch the forums and github:  | 
+[21:03:17]  |                                        | 
+[21:03:17]  |   https://git.io/5.x                   | 
+[21:03:17]  |                                        | 
+[21:03:17]  ========================================== 
+[21:03:17]  
+[21:03:17] ======================
+
+[21:03:17] ==========BY==========
+
+[21:03:17] ====Vaca_Marinha======
+
+[21:03:17] 
+======================
+[21:03:17] Number of vehicle models: 0
+Console input: gmx
+[21:18:39] Script[gamemodes/vacao.amx]: Run time error 19: "File or function is not found"
+[21:18:39] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:18:52] 
+[21:18:52] Server Plugins
+[21:18:52] --------------
+[21:18:52]  Loading plugin: sscanf
+[21:18:52] 
+
+[21:18:52]  ===============================
+
+[21:18:52]       sscanf plugin loaded.     
+
+[21:18:52]          Version:  2.8.3        
+
+[21:18:52]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:18:52]  ===============================
+
+[21:18:52]   Loaded.
+[21:18:52]  Loading plugin: streamer
+[21:18:52] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[21:18:52]   Loaded.
+[21:18:52]  Loading plugin: gmtime
+[21:18:52] 
+
+[21:18:52] ______________________________________
+
+[21:18:52]  GMT Time Plugin v0.2.3 loaded
+[21:18:52] ______________________________________
+
+[21:18:52]  By: Fro (c) Copyright <TBG> 2009-2011
+[21:18:52] ______________________________________
+
+[21:18:52]   Loaded.
+[21:18:52]  Loading plugin: sampvoice
+[21:18:52] [sv:dbg:network:init] : module initializing...
+[21:18:52] [dbg:raknet:init] : module initializing...
+[21:18:52] [dbg:raknet:init] : module initialized
+[21:18:52] [sv:dbg:network:init] : module initialized
+[21:18:52] [sv:dbg:main:Load] : creating 2 work threads...
+[21:18:52]  -------------------------------------------    
+[21:18:52]    ___                __   __    _              
+[21:18:52]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[21:18:52]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[21:18:52]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[21:18:52]                   |_|                           
+[21:18:52]  -------------------------------------------    
+[21:18:52]            SampVoice by MOR loaded              
+[21:18:52]  -------------------------------------------    
+[21:18:52]   Loaded.
+[21:18:52]  Loaded 4 plugins.
+
+[21:18:52] 
+[21:18:52] Filterscripts
+[21:18:52] ---------------
+[21:18:52]   Loaded 0 filterscripts.
+
+[21:18:52] [sv:dbg:main:AmxLoad] : net game pointer (value:02399C78) received
+[21:18:52] [sv:dbg:network:bind] : voice server running on port 63702
+[21:18:52]  
+[21:18:52]  ========================================== 
+[21:18:52]  |                                        | 
+[21:18:52]  |    Generating code, this may take a    | 
+[21:18:52]  |           little bit of time.          | 
+[21:18:52]  |                                        | 
+[21:18:52]  |             Please wait...             | 
+[21:18:52]  |                                        | 
+[21:18:52]  ========================================== 
+[21:18:52]  |                                        | 
+[21:18:52]  | Note that this code generation works   | 
+[21:18:52]  | best with the JIT plugin, which you    | 
+[21:18:52]  | are not currently using.  Get it here: | 
+[21:18:52]  |                                        | 
+[21:18:52]  |        https://git.io/jit-plugin       | 
+[21:18:52]  |                                        | 
+[21:18:52]  ========================================== 
+[21:18:52]  
+[21:18:52]  
+[21:18:52]  
+[21:18:52]  
+[21:18:52]  ========================================== 
+[21:18:52]  |                                        | 
+[21:18:52]  |         YSI version 5.05.0005          | 
+[21:18:52]  |         By Alex "Y_Less" Cole          | 
+[21:18:52]  |                                        | 
+[21:18:52]  | Unable to check the latest YSI version | 
+[21:18:52]  | - please watch the forums and github:  | 
+[21:18:52]  |                                        | 
+[21:18:52]  |   https://git.io/5.x                   | 
+[21:18:52]  |                                        | 
+[21:18:52]  ========================================== 
+[21:18:52]  
+[21:18:52] ======================
+
+[21:18:52] ==========BY==========
+
+[21:18:52] ====Vaca_Marinha======
+
+[21:18:52] 
+======================
+[21:18:52] Number of vehicle models: 0
+[21:19:09] [connection] 127.0.0.1:63703 requests connection cookie.
+[21:19:10] [connection] incoming connection: 127.0.0.1:63703 id: 0
+[21:19:10] [join] ThiagoApks has joined the server (0:127.0.0.1)
+Console input: gmx
+[21:30:30]  
+[21:30:30]  ========================================== 
+[21:30:30]  |                                        | 
+[21:30:30]  |    Generating code, this may take a    | 
+[21:30:30]  |           little bit of time.          | 
+[21:30:30]  |                                        | 
+[21:30:30]  |             Please wait...             | 
+[21:30:30]  |                                        | 
+[21:30:30]  ========================================== 
+[21:30:30]  |                                        | 
+[21:30:30]  | Note that this code generation works   | 
+[21:30:30]  | best with the JIT plugin, which you    | 
+[21:30:30]  | are not currently using.  Get it here: | 
+[21:30:30]  |                                        | 
+[21:30:30]  |        https://git.io/jit-plugin       | 
+[21:30:30]  |                                        | 
+[21:30:30]  ========================================== 
+[21:30:30]  
+[21:30:30]  
+[21:30:30]  
+[21:30:30]  
+[21:30:30]  ========================================== 
+[21:30:30]  |                                        | 
+[21:30:30]  |         YSI version 5.05.0005          | 
+[21:30:30]  |         By Alex "Y_Less" Cole          | 
+[21:30:30]  |                                        | 
+[21:30:30]  | Unable to check the latest YSI version | 
+[21:30:30]  | - please watch the forums and github:  | 
+[21:30:30]  |                                        | 
+[21:30:30]  |   https://git.io/5.x                   | 
+[21:30:30]  |                                        | 
+[21:30:30]  ========================================== 
+[21:30:30]  
+[21:30:30] ======================
+
+[21:30:30] ==========BY==========
+
+[21:30:30] ====Vaca_Marinha======
+
+[21:30:30] 
+======================
+[21:30:30] Number of vehicle models: 0
+Console input: gmx
+[21:40:26]  
+[21:40:26]  ========================================== 
+[21:40:26]  |                                        | 
+[21:40:26]  |    Generating code, this may take a    | 
+[21:40:26]  |           little bit of time.          | 
+[21:40:26]  |                                        | 
+[21:40:26]  |             Please wait...             | 
+[21:40:26]  |                                        | 
+[21:40:26]  ========================================== 
+[21:40:26]  |                                        | 
+[21:40:26]  | Note that this code generation works   | 
+[21:40:26]  | best with the JIT plugin, which you    | 
+[21:40:26]  | are not currently using.  Get it here: | 
+[21:40:26]  |                                        | 
+[21:40:26]  |        https://git.io/jit-plugin       | 
+[21:40:26]  |                                        | 
+[21:40:26]  ========================================== 
+[21:40:26]  
+[21:40:26]  
+[21:40:26]  
+[21:40:26]  
+[21:40:26]  ========================================== 
+[21:40:26]  |                                        | 
+[21:40:26]  |         YSI version 5.05.0005          | 
+[21:40:26]  |         By Alex "Y_Less" Cole          | 
+[21:40:26]  |                                        | 
+[21:40:26]  | Unable to check the latest YSI version | 
+[21:40:26]  | - please watch the forums and github:  | 
+[21:40:26]  |                                        | 
+[21:40:26]  |   https://git.io/5.x                   | 
+[21:40:26]  |                                        | 
+[21:40:26]  ========================================== 
+[21:40:26]  
+[21:40:26] ======================
+
+[21:40:26] =         BY         =
+
+[21:40:26] =   Vaca_Marinha     =
+
+[21:40:26] 
+======================
+[21:40:26] Number of vehicle models: 0
+Console input: gmx
+[21:41:51]  
+[21:41:51]  ========================================== 
+[21:41:51]  |                                        | 
+[21:41:51]  |    Generating code, this may take a    | 
+[21:41:51]  |           little bit of time.          | 
+[21:41:51]  |                                        | 
+[21:41:51]  |             Please wait...             | 
+[21:41:51]  |                                        | 
+[21:41:51]  ========================================== 
+[21:41:51]  |                                        | 
+[21:41:51]  | Note that this code generation works   | 
+[21:41:51]  | best with the JIT plugin, which you    | 
+[21:41:51]  | are not currently using.  Get it here: | 
+[21:41:51]  |                                        | 
+[21:41:51]  |        https://git.io/jit-plugin       | 
+[21:41:51]  |                                        | 
+[21:41:51]  ========================================== 
+[21:41:51]  
+[21:41:51]  
+[21:41:51]  
+[21:41:51]  
+[21:41:51]  ========================================== 
+[21:41:51]  |                                        | 
+[21:41:51]  |         YSI version 5.05.0005          | 
+[21:41:51]  |         By Alex "Y_Less" Cole          | 
+[21:41:51]  |                                        | 
+[21:41:51]  | Unable to check the latest YSI version | 
+[21:41:51]  | - please watch the forums and github:  | 
+[21:41:51]  |                                        | 
+[21:41:51]  |   https://git.io/5.x                   | 
+[21:41:51]  |                                        | 
+[21:41:51]  ========================================== 
+[21:41:51]  
+[21:41:51] ----------------------
+
+[21:41:51] -         BY         -
+
+[21:41:51] -   Vaca_Marinha     -
+
+[21:41:51] 
+----------------------
+[21:41:51] Number of vehicle models: 0
+Console input: gmx
+[21:42:23]  -------------------------------------------
+[21:42:23]            SampVoice unloading...           
+[21:42:23]  -------------------------------------------
+[21:42:23] [dbg:raknet:free] : module releasing...
+[21:42:23] [dbg:raknet:free] : module released
+[21:42:23] [sv:dbg:network:free] : module releasing...
+[21:42:23] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:42:27] 
+[21:42:27] Server Plugins
+[21:42:27] --------------
+[21:42:27]  Loading plugin: sscanf
+[21:42:27] 
+
+[21:42:27]  ===============================
+
+[21:42:27]       sscanf plugin loaded.     
+
+[21:42:27]          Version:  2.8.3        
+
+[21:42:27]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:42:27]  ===============================
+
+[21:42:27]   Loaded.
+[21:42:27]  Loading plugin: streamer
+[21:42:27] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[21:42:27]   Loaded.
+[21:42:27]  Loading plugin: gmtime
+[21:42:27] 
+
+[21:42:27] ______________________________________
+
+[21:42:27]  GMT Time Plugin v0.2.3 loaded
+[21:42:27] ______________________________________
+
+[21:42:27]  By: Fro (c) Copyright <TBG> 2009-2011
+[21:42:27] ______________________________________
+
+[21:42:27]   Loaded.
+[21:42:27]  Loading plugin: sampvoice
+[21:42:27] [sv:dbg:network:init] : module initializing...
+[21:42:27] [dbg:raknet:init] : module initializing...
+[21:42:27] [dbg:raknet:init] : module initialized
+[21:42:27] [sv:dbg:network:init] : module initialized
+[21:42:27] [sv:dbg:main:Load] : creating 2 work threads...
+[21:42:27]  -------------------------------------------    
+[21:42:27]    ___                __   __    _              
+[21:42:27]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[21:42:27]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[21:42:27]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[21:42:27]                   |_|                           
+[21:42:27]  -------------------------------------------    
+[21:42:27]            SampVoice by MOR loaded              
+[21:42:27]  -------------------------------------------    
+[21:42:27]   Loaded.
+[21:42:27]  Loaded 4 plugins.
+
+[21:42:27] 
+[21:42:28] Filterscripts
+[21:42:28] ---------------
+[21:42:28]   Loaded 0 filterscripts.
+
+[21:42:28] [sv:dbg:main:AmxLoad] : net game pointer (value:02449C78) received
+[21:42:28] [sv:dbg:network:bind] : voice server running on port 53275
+[21:42:28]  
+[21:42:28]  ========================================== 
+[21:42:28]  |                                        | 
+[21:42:28]  |    Generating code, this may take a    | 
+[21:42:28]  |           little bit of time.          | 
+[21:42:28]  |                                        | 
+[21:42:28]  |             Please wait...             | 
+[21:42:28]  |                                        | 
+[21:42:28]  ========================================== 
+[21:42:28]  |                                        | 
+[21:42:28]  | Note that this code generation works   | 
+[21:42:28]  | best with the JIT plugin, which you    | 
+[21:42:28]  | are not currently using.  Get it here: | 
+[21:42:28]  |                                        | 
+[21:42:28]  |        https://git.io/jit-plugin       | 
+[21:42:28]  |                                        | 
+[21:42:28]  ========================================== 
+[21:42:28]  
+[21:42:28]  
+[21:42:28]  
+[21:42:28]  
+[21:42:28]  ========================================== 
+[21:42:28]  |                                        | 
+[21:42:28]  |         YSI version 5.05.0005          | 
+[21:42:28]  |         By Alex "Y_Less" Cole          | 
+[21:42:28]  |                                        | 
+[21:42:28]  | Unable to check the latest YSI version | 
+[21:42:28]  | - please watch the forums and github:  | 
+[21:42:28]  |                                        | 
+[21:42:28]  |   https://git.io/5.x                   | 
+[21:42:28]  |                                        | 
+[21:42:28]  ========================================== 
+[21:42:28]  
+[21:42:28] ----------------------
+
+[21:42:28] -         BY         -
+
+[21:42:28] -   Vaca_Marinha     -
+
+[21:42:28] 
+----------------------
+[21:42:28] Number of vehicle models: 0
+[21:42:39] [connection] 127.0.0.1:58545 requests connection cookie.
+[21:42:40] [connection] incoming connection: 127.0.0.1:58545 id: 0
+[21:42:40] [join] ThiagoApks has joined the server (0:127.0.0.1)
+[21:43:25]  -------------------------------------------
+[21:43:25]            SampVoice unloading...           
+[21:43:25]  -------------------------------------------
+[21:43:25] [dbg:raknet:free] : module releasing...
+[21:43:25] [dbg:raknet:free] : module released
+[21:43:25] [sv:dbg:network:free] : module releasing...
+[21:43:25] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:43:27] 
+[21:43:27] Server Plugins
+[21:43:27] --------------
+[21:43:27]  Loading plugin: sscanf
+[21:43:27] 
+
+[21:43:27]  ===============================
+
+[21:43:27]       sscanf plugin loaded.     
+
+[21:43:27]          Version:  2.8.3        
+
+[21:43:27]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:43:27]  ===============================
+
+[21:43:27]   Loaded.
+[21:43:27]  Loading plugin: streamer
+[21:43:27] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[21:43:27]   Loaded.
+[21:43:27]  Loading plugin: gmtime
+[21:43:27] 
+
+[21:43:27] ______________________________________
+
+[21:43:27]  GMT Time Plugin v0.2.3 loaded
+[21:43:27] ______________________________________
+
+[21:43:27]  By: Fro (c) Copyright <TBG> 2009-2011
+[21:43:27] ______________________________________
+
+[21:43:27]   Loaded.
+[21:43:27]  Loading plugin: sampvoice
+[21:43:27] [sv:dbg:network:init] : module initializing...
+[21:43:27] [dbg:raknet:init] : module initializing...
+[21:43:27] [dbg:raknet:init] : module initialized
+[21:43:27] [sv:dbg:network:init] : module initialized
+[21:43:27] [sv:dbg:main:Load] : creating 2 work threads...
+[21:43:27]  -------------------------------------------    
+[21:43:27]    ___                __   __    _              
+[21:43:27]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[21:43:27]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[21:43:27]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[21:43:27]                   |_|                           
+[21:43:27]  -------------------------------------------    
+[21:43:27]            SampVoice by MOR loaded              
+[21:43:27]  -------------------------------------------    
+[21:43:27]   Loaded.
+[21:43:27]  Loaded 4 plugins.
+
+[21:43:27] 
+[21:43:27] Filterscripts
+[21:43:27] ---------------
+[21:43:27]   Loaded 0 filterscripts.
+
+[21:43:27] [sv:dbg:main:AmxLoad] : net game pointer (value:02409C78) received
+[21:43:27] [sv:dbg:network:bind] : voice server running on port 52190
+[21:43:27]  
+[21:43:27]  ========================================== 
+[21:43:27]  |                                        | 
+[21:43:27]  |    Generating code, this may take a    | 
+[21:43:27]  |           little bit of time.          | 
+[21:43:27]  |                                        | 
+[21:43:27]  |             Please wait...             | 
+[21:43:28]  |                                        | 
+[21:43:28]  ========================================== 
+[21:43:28]  |                                        | 
+[21:43:28]  | Note that this code generation works   | 
+[21:43:28]  | best with the JIT plugin, which you    | 
+[21:43:28]  | are not currently using.  Get it here: | 
+[21:43:28]  |                                        | 
+[21:43:28]  |        https://git.io/jit-plugin       | 
+[21:43:28]  |                                        | 
+[21:43:28]  ========================================== 
+[21:43:28]  
+[21:43:28]  
+[21:43:28]  
+[21:43:28]  
+[21:43:28]  ========================================== 
+[21:43:28]  |                                        | 
+[21:43:28]  |         YSI version 5.05.0005          | 
+[21:43:28]  |         By Alex "Y_Less" Cole          | 
+[21:43:28]  |                                        | 
+[21:43:28]  ========================================== 
+[21:43:28]  
+[21:43:28] ----------------------
+
+[21:43:28] -         BY         -
+
+[21:43:28] -   Vaca_Marinha     -
+
+[21:43:28] 
+----------------------
+[21:43:28] Number of vehicle models: 0
+[21:43:40] [connection] 127.0.0.1:49293 requests connection cookie.
+[21:43:41] [connection] incoming connection: 127.0.0.1:49293 id: 0
+[21:43:41] [join] ThiagoApks has joined the server (0:127.0.0.1)
+[21:52:57]  -------------------------------------------
+[21:52:57]            SampVoice unloading...           
+[21:52:57]  -------------------------------------------
+[21:52:57] [dbg:raknet:free] : module releasing...
+[21:52:57] [dbg:raknet:free] : module released
+[21:52:57] [sv:dbg:network:free] : module releasing...
+[21:52:57] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:53:01] 
+[21:53:01] Server Plugins
+[21:53:01] --------------
+[21:53:01]  Loading plugin: sscanf
+[21:53:01] 
+
+[21:53:01]  ===============================
+
+[21:53:01]       sscanf plugin loaded.     
+
+[21:53:01]          Version:  2.8.3        
+
+[21:53:01]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:53:01]  ===============================
+
+[21:53:01]   Loaded.
+[21:53:01]  Loading plugin: streamer
+[21:53:01] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[21:53:01]   Loaded.
+[21:53:01]  Loading plugin: gmtime
+[21:53:01] 
+
+[21:53:01] ______________________________________
+
+[21:53:01]  GMT Time Plugin v0.2.3 loaded
+[21:53:01] ______________________________________
+
+[21:53:01]  By: Fro (c) Copyright <TBG> 2009-2011
+[21:53:01] ______________________________________
+
+[21:53:01]   Loaded.
+[21:53:01]  Loading plugin: sampvoice
+[21:53:01] [sv:dbg:network:init] : module initializing...
+[21:53:01] [dbg:raknet:init] : module initializing...
+[21:53:01] [dbg:raknet:init] : module initialized
+[21:53:01] [sv:dbg:network:init] : module initialized
+[21:53:01] [sv:dbg:main:Load] : creating 2 work threads...
+[21:53:01]  -------------------------------------------    
+[21:53:01]    ___                __   __    _              
+[21:53:01]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[21:53:01]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[21:53:01]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[21:53:01]                   |_|                           
+[21:53:01]  -------------------------------------------    
+[21:53:01]            SampVoice by MOR loaded              
+[21:53:01]  -------------------------------------------    
+[21:53:01]   Loaded.
+[21:53:01]  Loaded 4 plugins.
+
+[21:53:01] 
+[21:53:01] Filterscripts
+[21:53:01] ---------------
+[21:53:01]   Loaded 0 filterscripts.
+
+[21:53:01] [sv:dbg:main:AmxLoad] : net game pointer (value:023C9C78) received
+[21:53:01] [sv:dbg:network:bind] : voice server running on port 59075
+[21:53:01]  
+[21:53:01]  ========================================== 
+[21:53:01]  |                                        | 
+[21:53:01]  |    Generating code, this may take a    | 
+[21:53:01]  |           little bit of time.          | 
+[21:53:01]  |                                        | 
+[21:53:01]  |             Please wait...             | 
+[21:53:01]  |                                        | 
+[21:53:01]  ========================================== 
+[21:53:01]  |                                        | 
+[21:53:01]  | Note that this code generation works   | 
+[21:53:01]  | best with the JIT plugin, which you    | 
+[21:53:01]  | are not currently using.  Get it here: | 
+[21:53:01]  |                                        | 
+[21:53:01]  |        https://git.io/jit-plugin       | 
+[21:53:01]  |                                        | 
+[21:53:01]  ========================================== 
+[21:53:01]  
+[21:53:01]  
+[21:53:01]  
+[21:53:01]  
+[21:53:01]  ========================================== 
+[21:53:01]  |                                        | 
+[21:53:01]  |         YSI version 5.05.0005          | 
+[21:53:01]  |         By Alex "Y_Less" Cole          | 
+[21:53:01]  |                                        | 
+[21:53:01]  ========================================== 
+[21:53:01]  
+[21:53:01] ----------------------
+
+[21:53:01] -         BY         -
+
+[21:53:01] -   Vaca_Marinha     -
+
+[21:53:01] 
+----------------------
+[21:53:01] Number of vehicle models: 0
+[21:53:11] [connection] 127.0.0.1:52118 requests connection cookie.
+[21:53:12] [connection] incoming connection: 127.0.0.1:52118 id: 0
+[21:53:13] [join] ThiagoApks has joined the server (0:127.0.0.1)
+[21:53:49] [part] ThiagoApks has left the server (0:2)
+[21:54:37] [connection] 127.0.0.1:60743 requests connection cookie.
+[21:54:38] [connection] incoming connection: 127.0.0.1:60743 id: 0
+[21:54:39] [join] ThiagoApks has joined the server (0:127.0.0.1)
+[21:54:41] [part] ThiagoApks has left the server (0:2)
+[21:54:46]  -------------------------------------------
+[21:54:46]            SampVoice unloading...           
+[21:54:46]  -------------------------------------------
+[21:54:46] [dbg:raknet:free] : module releasing...
+[21:54:46] [dbg:raknet:free] : module released
+[21:54:46] [sv:dbg:network:free] : module releasing...
+[21:54:46] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:55:04] 
+[21:55:04] Server Plugins
+[21:55:04] --------------
+[21:55:04]  Loading plugin: sscanf
+[21:55:04] 
+
+[21:55:04]  ===============================
+
+[21:55:04]       sscanf plugin loaded.     
+
+[21:55:04]          Version:  2.8.3        
+
+[21:55:04]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:55:04]  ===============================
+
+[21:55:04]   Loaded.
+[21:55:04]  Loading plugin: streamer
+[21:55:04] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[21:55:04]   Loaded.
+[21:55:04]  Loading plugin: gmtime
+[21:55:04] 
+
+[21:55:04] ______________________________________
+
+[21:55:04]  GMT Time Plugin v0.2.3 loaded
+[21:55:04] ______________________________________
+
+[21:55:04]  By: Fro (c) Copyright <TBG> 2009-2011
+[21:55:04] ______________________________________
+
+[21:55:04]   Loaded.
+[21:55:04]  Loading plugin: sampvoice
+[21:55:04] [sv:dbg:network:init] : module initializing...
+[21:55:04] [dbg:raknet:init] : module initializing...
+[21:55:04] [dbg:raknet:init] : module initialized
+[21:55:04] [sv:dbg:network:init] : module initialized
+[21:55:04] [sv:dbg:main:Load] : creating 2 work threads...
+[21:55:04]  -------------------------------------------    
+[21:55:04]    ___                __   __    _              
+[21:55:04]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[21:55:04]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[21:55:04]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[21:55:04]                   |_|                           
+[21:55:04]  -------------------------------------------    
+[21:55:04]            SampVoice by MOR loaded              
+[21:55:04]  -------------------------------------------    
+[21:55:04]   Loaded.
+[21:55:04]  Loaded 4 plugins.
+
+[21:55:05] 
+[21:55:05] Filterscripts
+[21:55:05] ---------------
+[21:55:05]   Loaded 0 filterscripts.
+
+[21:55:05] [sv:dbg:main:AmxLoad] : net game pointer (value:00799C78) received
+[21:55:05] [sv:dbg:network:bind] : voice server running on port 60745
+[21:55:05]  
+[21:55:05]  ========================================== 
+[21:55:05]  |                                        | 
+[21:55:05]  |    Generating code, this may take a    | 
+[21:55:05]  |           little bit of time.          | 
+[21:55:05]  |                                        | 
+[21:55:05]  |             Please wait...             | 
+[21:55:05]  |                                        | 
+[21:55:05]  ========================================== 
+[21:55:05]  |                                        | 
+[21:55:05]  | Note that this code generation works   | 
+[21:55:05]  | best with the JIT plugin, which you    | 
+[21:55:05]  | are not currently using.  Get it here: | 
+[21:55:05]  |                                        | 
+[21:55:05]  |        https://git.io/jit-plugin       | 
+[21:55:05]  |                                        | 
+[21:55:05]  ========================================== 
+[21:55:05]  
+[21:55:05]  
+[21:55:05]  
+[21:55:05]  
+[21:55:05]  ========================================== 
+[21:55:05]  |                                        | 
+[21:55:05]  |         YSI version 5.05.0005          | 
+[21:55:05]  |         By Alex "Y_Less" Cole          | 
+[21:55:05]  |                                        | 
+[21:55:05]  ========================================== 
+[21:55:05]  
+[21:55:05] ----------------------
+
+[21:55:05] -         BY         -
+
+[21:55:05] -   Vaca_Marinha     -
+
+[21:55:05] 
+----------------------
+[21:55:05] Number of vehicle models: 0
+[21:55:22] [connection] 127.0.0.1:53105 requests connection cookie.
+[21:55:23] [connection] incoming connection: 127.0.0.1:53105 id: 0
+[21:55:23] [join] ThiagoApks has joined the server (0:127.0.0.1)
+[21:56:03]  -------------------------------------------
+[21:56:03]            SampVoice unloading...           
+[21:56:03]  -------------------------------------------
+[21:56:03] [dbg:raknet:free] : module releasing...
+[21:56:03] [dbg:raknet:free] : module released
+[21:56:03] [sv:dbg:network:free] : module releasing...
+[21:56:03] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:56:58] 
+[21:56:58] Server Plugins
+[21:56:58] --------------
+[21:56:58]  Loading plugin: sscanf
+[21:56:58] 
+
+[21:56:58]  ===============================
+
+[21:56:58]       sscanf plugin loaded.     
+
+[21:56:58]          Version:  2.8.3        
+
+[21:56:58]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:56:58]  ===============================
+
+[21:56:58]   Loaded.
+[21:56:58]  Loading plugin: streamer
+[21:56:58] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[21:56:58]   Loaded.
+[21:56:58]  Loading plugin: gmtime
+[21:56:58] 
+
+[21:56:58] ______________________________________
+
+[21:56:58]  GMT Time Plugin v0.2.3 loaded
+[21:56:58] ______________________________________
+
+[21:56:58]  By: Fro (c) Copyright <TBG> 2009-2011
+[21:56:58] ______________________________________
+
+[21:56:58]   Loaded.
+[21:56:58]  Loading plugin: sampvoice
+[21:56:58] [sv:dbg:network:init] : module initializing...
+[21:56:58] [dbg:raknet:init] : module initializing...
+[21:56:58] [dbg:raknet:init] : module initialized
+[21:56:58] [sv:dbg:network:init] : module initialized
+[21:56:58] [sv:dbg:main:Load] : creating 2 work threads...
+[21:56:58]  -------------------------------------------    
+[21:56:58]    ___                __   __    _              
+[21:56:58]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[21:56:58]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[21:56:58]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[21:56:58]                   |_|                           
+[21:56:58]  -------------------------------------------    
+[21:56:58]            SampVoice by MOR loaded              
+[21:56:58]  -------------------------------------------    
+[21:56:58]   Loaded.
+[21:56:58]  Loaded 4 plugins.
+
+[21:56:59] 
+[21:56:59] Filterscripts
+[21:56:59] ---------------
+[21:56:59]   Loaded 0 filterscripts.
+
+[21:56:59] [sv:dbg:main:AmxLoad] : net game pointer (value:023F9C78) received
+[21:56:59] [sv:dbg:network:bind] : voice server running on port 53119
+[21:56:59]  
+[21:56:59]  ========================================== 
+[21:56:59]  |                                        | 
+[21:56:59]  |    Generating code, this may take a    | 
+[21:56:59]  |           little bit of time.          | 
+[21:56:59]  |                                        | 
+[21:56:59]  |             Please wait...             | 
+[21:56:59]  |                                        | 
+[21:56:59]  ========================================== 
+[21:56:59]  |                                        | 
+[21:56:59]  | Note that this code generation works   | 
+[21:56:59]  | best with the JIT plugin, which you    | 
+[21:56:59]  | are not currently using.  Get it here: | 
+[21:56:59]  |                                        | 
+[21:56:59]  |        https://git.io/jit-plugin       | 
+[21:56:59]  |                                        | 
+[21:56:59]  ========================================== 
+[21:56:59]  
+[21:56:59]  
+[21:56:59]  
+[21:56:59]  
+[21:56:59]  ========================================== 
+[21:56:59]  |                                        | 
+[21:56:59]  |         YSI version 5.05.0005          | 
+[21:56:59]  |         By Alex "Y_Less" Cole          | 
+[21:56:59]  |                                        | 
+[21:56:59]  ========================================== 
+[21:56:59]  
+[21:56:59] ----------------------
+
+[21:56:59] -         BY         -
+
+[21:56:59] -   Vaca_Marinha     -
+
+[21:56:59] 
+----------------------
+[21:56:59] Number of vehicle models: 0
+[21:56:59] [connection] 127.0.0.1:53118 requests connection cookie.
+[21:57:00] [connection] incoming connection: 127.0.0.1:53118 id: 0
+[21:57:01] [join] ThiagoApks has joined the server (0:127.0.0.1)
+Console input: gmx
+[22:01:42]  
+[22:01:42]  ========================================== 
+[22:01:42]  |                                        | 
+[22:01:42]  |    Generating code, this may take a    | 
+[22:01:42]  |           little bit of time.          | 
+[22:01:42]  |                                        | 
+[22:01:42]  |             Please wait...             | 
+[22:01:42]  |                                        | 
+[22:01:42]  ========================================== 
+[22:01:42]  |                                        | 
+[22:01:42]  | Note that this code generation works   | 
+[22:01:42]  | best with the JIT plugin, which you    | 
+[22:01:42]  | are not currently using.  Get it here: | 
+[22:01:42]  |                                        | 
+[22:01:42]  |        https://git.io/jit-plugin       | 
+[22:01:42]  |                                        | 
+[22:01:42]  ========================================== 
+[22:01:42]  
+[22:01:42]  
+[22:01:42]  
+[22:01:42]  
+[22:01:42]  ========================================== 
+[22:01:42]  |                                        | 
+[22:01:42]  |         YSI version 5.05.0005          | 
+[22:01:42]  |         By Alex "Y_Less" Cole          | 
+[22:01:42]  |                                        | 
+[22:01:42]  ========================================== 
+[22:01:42]  
+[22:01:42] *****************************
+[22:01:42] *** Velocimetro carregado ***
+[22:01:42] *****************************
+[22:01:42] ----------------------
+
+[22:01:42] -         BY         -
+
+[22:01:42] -   Vaca_Marinha     -
+
+[22:01:42] 
+----------------------
+[22:01:42] Number of vehicle models: 0
+[22:22:30]  -------------------------------------------
+[22:22:30]            SampVoice unloading...           
+[22:22:30]  -------------------------------------------
+[22:22:30] [dbg:raknet:free] : module releasing...
+[22:22:30] [dbg:raknet:free] : module released
+[22:22:30] [sv:dbg:network:free] : module releasing...
+[22:22:30] [sv:dbg:network:free] : module released
